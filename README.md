@@ -17,6 +17,8 @@ Description:<br>
 •	Switch0 is connected to Router0 on FastEthernet0/0.<br>
 •	The router acts as a DHCP server for the connected LAN.<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/962b0ac9-7d41-4f0a-b6ad-78d7e2f793c6" />
+
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -65,6 +67,44 @@ ________________________________________
 •	DHCP IP configuration shown in PC0 and PC1<br>
 •	Router configuration screen<br>
 •	Successful ping test between the two PCs<br>
+
+# CONFIGURATION 
+PC1
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c495f21-7984-4281-bc3e-d3b7fa322adf" />
+
+
+
+PC2
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8e4f5958-6ab9-4975-ba6e-26d134490236" />
+
+
+SWTICH 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6e05b296-6512-4eb1-b693-d8119ffd0a2e" />
+
+
+
+
+ROUTER
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/13fd1830-7714-4c20-b16e-6075bb193a9a" />
+
+
+# PING
+
+PC1
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a32ed98e-53b0-4c6b-9cf4-21eb2ad5a0b6" />
+
+
+PC2
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7ef42313-d43d-4581-be75-333f3ec148f2" />
+
+
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
